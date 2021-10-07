@@ -8,7 +8,7 @@ The purpose of the assignment is to demonstrate that we can follow best practice
 
 The following is the structure of the directory and files present:
 ```
-.
+
 ├── README.md
 ├── data
     ├── source
